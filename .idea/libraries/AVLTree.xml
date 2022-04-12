@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AVLTree">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AVLTree/dist/AVLTree.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
